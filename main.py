@@ -1,0 +1,1 @@
+print("i am not going to write the basic program becuase yes >:)")
