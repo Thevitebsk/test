@@ -1,1 +1,1 @@
-# this readme is useless
+# Some stuff made for my IT scholl
