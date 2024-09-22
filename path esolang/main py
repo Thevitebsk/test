@@ -19,4 +19,4 @@ def code(i):
           elif m=="i":continue
           else:print("UNKNOWN COMMAND. HALT");break
   print(f"stack:{s}")
-code("<(stack)(the)(stacky)[comments do work?]>")
+code("")
