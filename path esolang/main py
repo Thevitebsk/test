@@ -1,1 +1,14 @@
-print("Hello world")
+"""Path is an esolang created by Gaham where multiple brackets are used as a part of a code
+(...) pushes the length of the contents surrounded by curly brackets"""
+m="";s=[];l=[]
+def code(i):
+  global m
+  for c in i:
+  	if c=="(":m="a"
+  	elif c==")":
+  		m=""
+  		s.append(len(l))
+  		while len(l)>0:l.pop()
+  	elif m=="a":l.append(c)
+  print(f"stack:{s}\nlength stack:{l}")
+code("(long)")
