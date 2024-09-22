@@ -11,4 +11,4 @@ def code(i):
   		while len(l)>0:l.pop()
   	elif m=="a":l.append(c)
   print(f"stack:{s}\nlength stack:{l}")
-code("(long)")
+code("")
