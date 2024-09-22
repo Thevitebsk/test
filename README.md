@@ -1,1 +1,1 @@
-# Some stuff made for my IT scholl
+# Some stuff made for my IT school and some of my personal stuff
