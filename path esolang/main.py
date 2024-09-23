@@ -16,7 +16,7 @@ def code(i):
     elif m=="a":l.append(c)
     elif c=="[" and m=="Y":m="i"
     elif c=="]" and m=="i":m="Y"
-    elif m=="i":continue
+    elif m=="i":print(end="")
     else:print("UNKNOWN COMMAND. HALT");break
   print(f"stack:{s}")
 code("")
