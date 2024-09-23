@@ -2,7 +2,8 @@
 (...) pushes the length of the contents surrounded by curly brackets
 [...] comments
 <...> manages the program execution state
-{...} execute a part of a program"""
+{...} execute a part of a program
++ Adds two elements on the stack together"""
 m="";s=[];l=[]
 def code(i):
   global m
