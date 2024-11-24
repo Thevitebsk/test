@@ -1,5 +1,5 @@
 due to probably obvious reasons, this is in the "test" repo instead of esolangs.org
 
-Code-free is basically the early online way to see implementations of languages in the Gammaline universe from 1991 to 2012. The page sadly doesn't exist anymore due to the domain being expired, although the source code of the whole webpage was found as well as it's languages.
+Code-free is basically the early online way to see implementations of languages in the Gammaline universe from 1991 to 2012. The page sadly doesn't exist anymore due to the domain being expired, although the source code of the whole webpage was found 2 years after as it's languages.
 
 Currently a fan website is hosted at recodefree.com
